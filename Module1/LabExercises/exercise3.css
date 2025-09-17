@@ -1,0 +1,7 @@
+body { font-family: sans-serif; margin: 0; }
+        .container { display: flex; min-height: 100vh; align-items: stretch; }
+        .column { background: goldenrod; display: flex; flex-direction: column; justify-content: center; align-items: center; flex: 1; }
+        img { width: 50%; height:auto;}
+        button { background: darkred; color: white; padding: 10px 20px;}
+
+        
