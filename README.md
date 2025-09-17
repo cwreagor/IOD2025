@@ -1,2 +1,2 @@
 # IOD2025
-This is my repo
+This is my repository
