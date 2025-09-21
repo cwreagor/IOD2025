@@ -15,7 +15,7 @@ function difference(a, b) {
    console.log(a - b)
 }
 
-sum(250, 200)
+difference(250, 200)
 
 function difference (a, b) {
     return a - b
